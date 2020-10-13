@@ -3,10 +3,7 @@
 
 Make your everyday decisions easier!
 
-## Installation
-
-Use this  [link](https://www.ruby-lang.org/en/documentation/installation/) to understand how to install ruby interpreter.
-
+P.S.
 (we use `ruby` to run the script)
 ## Usage
 Just think of a question that can be answered "Yes" or "No", concentrate very, very hard, and...

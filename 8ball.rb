@@ -40,7 +40,7 @@ salutation = [
 puts salutation.sample
 
 # Выводим пустую строку на 2 секунды
-puts ""
+puts
 sleep 2
 
 # Выводим случайный элемент массива answers
