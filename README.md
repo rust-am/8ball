@@ -5,7 +5,7 @@ Make your everyday decisions easier!
 
 ## Installation
 
-Use this  [link](https://pip.pypa.io/en/stable/) to understand how to install ruby interpreter.
+Use this  [link](https://www.ruby-lang.org/en/documentation/installation/) to understand how to install ruby interpreter.
 
 (we use `ruby` to run the script)
 ## Usage
