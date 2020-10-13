@@ -15,6 +15,7 @@ Run the command below in your system console.
 ```shell
 ruby 8ball.rb
 ```
+In the folder where the 8ball.rb file is located, of course.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
