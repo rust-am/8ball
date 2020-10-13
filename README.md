@@ -12,7 +12,7 @@ Use this  [link](https://www.ruby-lang.org/en/documentation/installation/) to un
 Just think of a question that can be answered "Yes" or "No", concentrate very, very hard, and...
 
 Run the command below in your system console.
-```ruby
+```shell
 ruby 8ball.rb
 ```
 
